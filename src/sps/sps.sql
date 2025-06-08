@@ -1,7 +1,3 @@
-example-- =============================================
--- PROCEDIMIENTOS ALMACENADOS
--- =============================================
-
 -- 1. Obtener detalle completo de un jugador
 CREATE PROCEDURE sp_detalle_jugador
     @id_jugador INT
