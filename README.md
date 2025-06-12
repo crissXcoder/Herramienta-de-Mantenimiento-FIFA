@@ -145,6 +145,23 @@ El proyecto “Herramienta de Mantenimiento FIFA” es una solución relacional 
 
 ---
 
+
+## Estructura del Repositorio
+
+DCA Developers/
+├── src/
+│ ├── backup/ # Script de respaldo
+│ ├── scripts/ # Scripts generales y funcionales
+│ ├── sps/ # Procedimientos almacenados
+│ ├── tables/ # Definición estructural del modelo
+│ ├── triggers/ # Triggers reactivos
+│ ├── views/ # Vistas consolidadas
+├── docs/ # Documentación técnica y académica
+├── README.md # Descripción del proyecto
+
+
+---
+
 ## Créditos
 
 Este proyecto fue desarrollado por:
