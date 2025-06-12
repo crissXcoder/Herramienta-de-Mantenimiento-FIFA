@@ -1,0 +1,6 @@
+CREATE TABLE Club (
+    id_club INT IDENTITY(1,1) PRIMARY KEY,
+    nombre_club VARCHAR(100) NOT NULL,
+    pais VARCHAR(50) NOT NULL,
+    liga VARCHAR(100) NOT NULL
+);
